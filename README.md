@@ -1,1 +1,1 @@
-# machine_learning_mini_project
+# nlp_mini_project
